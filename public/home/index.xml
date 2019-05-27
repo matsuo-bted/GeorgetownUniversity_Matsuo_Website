@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Shin&#39;ichiro Matsuo@Georgetown</title>
+    <link>https://people.cs.georgetown.edu/matsuo/home/</link>
+    <description>Recent content in Homes on Shin&#39;ichiro Matsuo@Georgetown</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Shin&#39;ichiro Matsuo</copyright>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0700</lastBuildDate>
+    
+	<atom:link href="https://people.cs.georgetown.edu/matsuo/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Shin&#39;ichiro Matsuo@Georgetown</title>
+      <link>https://people.cs.georgetown.edu/matsuo/home/hero/</link>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 -0700</pubDate>
+      
+      <guid>https://people.cs.georgetown.edu/matsuo/home/hero/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://people.cs.georgetown.edu/matsuo/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.cs.georgetown.edu/matsuo/home/about/</guid>
+      <description>New Graduate Students and undergraduate student If you are interested in Blockchain research, please feel free to contact Shinichiro.Matsuo@georgetown.edu. Presentation slides at Grad Student orientation is here.
+Biography I am a research scientist in cryptography and information security.
+I am working on maturing Blockchain technology from the academia side and presents research results on Blockchain security. At Georgetown University, I direct the Blockchain Technology and Ecosystem Design (B-TED) research center and lead multi-disciplinary research among technology, economy, law, and regulation.</description>
+    </item>
+    
+    <item>
+      <title>Selected Publications</title>
+      <link>https://people.cs.georgetown.edu/matsuo/home/publications_selected/</link>
+      <pubDate>Fri, 20 Apr 2001 00:00:00 -0700</pubDate>
+      
+      <guid>https://people.cs.georgetown.edu/matsuo/home/publications_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Publications</title>
+      <link>https://people.cs.georgetown.edu/matsuo/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
+      
+      <guid>https://people.cs.georgetown.edu/matsuo/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://people.cs.georgetown.edu/matsuo/home/talks/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.cs.georgetown.edu/matsuo/home/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Academic Activities and Standardization</title>
+      <link>https://people.cs.georgetown.edu/matsuo/home/activities/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.cs.georgetown.edu/matsuo/home/activities/</guid>
+      <description>Academic Activities Program Chair  Scaling Bitcoin 2018 Security Standardization Research 2015 Symposium on Cryptography and Information Security 2007  Program Committee  International Workshop on Cryptocurrencies and Blockchain Technology (CBT 2018), ESORICS 2018 Blockchain Protocol Analysis and Security Engineering 2018 CRYPTO-ECONOMICS SECURITY CONFERENCE 2017 International Workshop on Cryptocurrencies and Blockchain Technology (CBT 2017), ESORICS 2017 2nd International Workshop on Linked Data and Distributed Ledger IEEE Security and Privacy on the Blockchain (IEEE S&amp;amp;B) 2017 ACM Workshop on Blockchain, Cryptocurrencies and Contracts (BCC) 2017 Scaling Bitcoin Workshop 2016 Computer Security Symposium (2016-) W3C Blockchain and the Web Workshop Security Standardization Research (2014-) International Conference on Trusted Systems (2011-) Special Issue on Cryptography and Information Security,The Institute of Electronics, Information and Communication Engineers (2011-2014, 2016-)  Steering Committee  Security Standardization Research  Organizing Committee  Financial Cryptography 2013  Editorial Board and Editorial Commitee  Special Issue on Cryptography and Information Security,The Institute of Electronics, Information and Communication Engineers (2008-2010) LEDGER Journal (2015-)  Advisory Committee  Scaling Bitcoin 2017  Tutorial Committee  Bitcoin Edge Dev++ 2017 Stanford  Reviewer AsiaCrypt,RFIDSec Asia, IWSEC, Indocrypt, ACISP, Information Security Conference (ISC), IEEE Transactions on Vehicular Technology, IEICE transactions of fundamentals, IT Transactions, International Journal of Information Security, Journal of Information Procession Society of Japan</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://people.cs.georgetown.edu/matsuo/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.cs.georgetown.edu/matsuo/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

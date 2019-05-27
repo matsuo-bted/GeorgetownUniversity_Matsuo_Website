@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Shin&#39;ichiro Matsuo@Georgetown</title>
+    <link>https://people.cs.georgetown.edu/matsuo/publication/</link>
+    <description>Recent content in Publications on Shin&#39;ichiro Matsuo@Georgetown</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Shin&#39;ichiro Matsuo</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://people.cs.georgetown.edu/matsuo/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Long-term public blockchain: Resilience against Compromise of Underlying Cryptography.</title>
+      <link>https://people.cs.georgetown.edu/matsuo/publication/icccn2017/</link>
+      <pubDate>Thu, 03 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.cs.georgetown.edu/matsuo/publication/icccn2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Short Paper: Long-term public blockchain: Resilience against Compromise of Underlying Cryptography.</title>
+      <link>https://people.cs.georgetown.edu/matsuo/publication/ieeesb2017/</link>
+      <pubDate>Sat, 29 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.cs.georgetown.edu/matsuo/publication/ieeesb2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How Formal Analysis and Verification Add Security to Blockchain-Based Systems</title>
+      <link>https://people.cs.georgetown.edu/matsuo/publication/bpase2017/</link>
+      <pubDate>Thu, 26 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.cs.georgetown.edu/matsuo/publication/bpase2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Non-repudiable Negotiation Protocol for Security Service Level Agreements.</title>
+      <link>https://people.cs.georgetown.edu/matsuo/publication/ijcs2015/</link>
+      <pubDate>Sun, 05 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.cs.georgetown.edu/matsuo/publication/ijcs2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Secure Genetic Algorithm for the Subset Cover Problem and its Application to Privacy Protection</title>
+      <link>https://people.cs.georgetown.edu/matsuo/publication/wistp2014/</link>
+      <pubDate>Mon, 30 Jun 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.cs.georgetown.edu/matsuo/publication/wistp2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Expressing Security Requirements: Usability of Taxonomy-Based Requirement Identification Scheme</title>
+      <link>https://people.cs.georgetown.edu/matsuo/publication/services2014/</link>
+      <pubDate>Fri, 27 Jun 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.cs.georgetown.edu/matsuo/publication/services2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tailored Security: Building Nonrepudiable Security Service-Level Agreements</title>
+      <link>https://people.cs.georgetown.edu/matsuo/publication/corr2014/</link>
+      <pubDate>Fri, 27 Jun 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.cs.georgetown.edu/matsuo/publication/corr2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Relations among Notions of Privacy for RFID Authentication Protocols</title>
+      <link>https://people.cs.georgetown.edu/matsuo/publication/ieice_mmo14/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.cs.georgetown.edu/matsuo/publication/ieice_mmo14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toward Practical Searchable Symmetric Encryption</title>
+      <link>https://people.cs.georgetown.edu/matsuo/publication/iwsec2013/</link>
+      <pubDate>Mon, 18 Nov 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.cs.georgetown.edu/matsuo/publication/iwsec2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tailored Security: Building Nonrepudiable Security Service-Level Agreements</title>
+      <link>https://people.cs.georgetown.edu/matsuo/publication/ieeevt2013/</link>
+      <pubDate>Sun, 01 Sep 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.cs.georgetown.edu/matsuo/publication/ieeevt2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Forward Privacy Model for RFID Authentication Protocols</title>
+      <link>https://people.cs.georgetown.edu/matsuo/publication/wistp2013/</link>
+      <pubDate>Tue, 28 May 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.cs.georgetown.edu/matsuo/publication/wistp2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Risk Visualization and Alerting System: Architecture and Proof-of-Concept Implementation</title>
+      <link>https://people.cs.georgetown.edu/matsuo/publication/sesp2013/</link>
+      <pubDate>Wed, 08 May 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.cs.georgetown.edu/matsuo/publication/sesp2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Accountable Security Mechanism based on Security Service Level Agreement</title>
+      <link>https://people.cs.georgetown.edu/matsuo/publication/ieeescc2013/</link>
+      <pubDate>Mon, 07 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.cs.georgetown.edu/matsuo/publication/ieeescc2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mobile Device Trust: How do we link social needs, technical requirements techniques and standards?</title>
+      <link>https://people.cs.georgetown.edu/matsuo/publication/intrust2012/</link>
+      <pubDate>Tue, 18 Dec 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.cs.georgetown.edu/matsuo/publication/intrust2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Relations among Notions of Privacy for RFID Authentication Protocols</title>
+      <link>https://people.cs.georgetown.edu/matsuo/publication/esorics2012/</link>
+      <pubDate>Mon, 10 Sep 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.cs.georgetown.edu/matsuo/publication/esorics2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prototype System for Visualizing Security Risks on Mobile Device.</title>
+      <link>https://people.cs.georgetown.edu/matsuo/publication/soups2012-1/</link>
+      <pubDate>Wed, 11 Jul 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.cs.georgetown.edu/matsuo/publication/soups2012-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visualization of user&#39;s end-to-end security risks</title>
+      <link>https://people.cs.georgetown.edu/matsuo/publication/soups2012-2/</link>
+      <pubDate>Wed, 11 Jul 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.cs.georgetown.edu/matsuo/publication/soups2012-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Accountable Security Mechanisms in Light of Security Service Level Agreement</title>
+      <link>https://people.cs.georgetown.edu/matsuo/publication/wwrf2012/</link>
+      <pubDate>Wed, 27 Jun 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.cs.georgetown.edu/matsuo/publication/wwrf2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fair and Consistent Hardware Evaluation of Fourteen Round Two SHA-3 Candidates</title>
+      <link>https://people.cs.georgetown.edu/matsuo/publication/ieeevlsi_2012/</link>
+      <pubDate>Tue, 01 May 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.cs.georgetown.edu/matsuo/publication/ieeevlsi_2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enabling secure multitenancy in cloud computing: Challenges and approaches</title>
+      <link>https://people.cs.georgetown.edu/matsuo/publication/bcfic2012/</link>
+      <pubDate>Sun, 22 Apr 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.cs.georgetown.edu/matsuo/publication/bcfic2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Solving a 676-Bit Discrete Logarithm Problem in $GF(3^{6n})$</title>
+      <link>https://people.cs.georgetown.edu/matsuo/publication/ieice_hswmst12/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.cs.georgetown.edu/matsuo/publication/ieice_hswmst12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Relation among the Security Models for RFID Authentication Protocol</title>
+      <link>https://people.cs.georgetown.edu/matsuo/publication/ewlc2011/</link>
+      <pubDate>Mon, 28 Nov 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.cs.georgetown.edu/matsuo/publication/ewlc2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multifactor Authenticated Key Renewal</title>
+      <link>https://people.cs.georgetown.edu/matsuo/publication/intrust2011/</link>
+      <pubDate>Sun, 27 Nov 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.cs.georgetown.edu/matsuo/publication/intrust2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Security/Privacy Models for Internet of things: What should be studied from RFID-schemes?</title>
+      <link>https://people.cs.georgetown.edu/matsuo/publication/wceta2011/</link>
+      <pubDate>Mon, 07 Nov 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.cs.georgetown.edu/matsuo/publication/wceta2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Study on Computational Formal Verification for Practical Cryptographic Protocol: The Case of Synchronous RFID Authentication.</title>
+      <link>https://people.cs.georgetown.edu/matsuo/publication/rlcps2011/</link>
+      <pubDate>Fri, 04 Mar 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.cs.georgetown.edu/matsuo/publication/rlcps2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leakage Resilient Strong Key-Insulated Signatures in Public Channel.</title>
+      <link>https://people.cs.georgetown.edu/matsuo/publication/intrust2010/</link>
+      <pubDate>Mon, 13 Dec 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.cs.georgetown.edu/matsuo/publication/intrust2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How Can We Conduct Fair and Consistent Hardware Evaluation for SHA-3 Candidate?</title>
+      <link>https://people.cs.georgetown.edu/matsuo/publication/nistsha32010/</link>
+      <pubDate>Tue, 24 Aug 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.cs.georgetown.edu/matsuo/publication/nistsha32010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prototyping Platform for Performance Evaluation of SHA-3 Candidates</title>
+      <link>https://people.cs.georgetown.edu/matsuo/publication/host2010/</link>
+      <pubDate>Sun, 13 Jun 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.cs.georgetown.edu/matsuo/publication/host2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leakage-Resilient RFID Authentication with Forward-Privacy</title>
+      <link>https://people.cs.georgetown.edu/matsuo/publication/rfidsec2010/</link>
+      <pubDate>Tue, 08 Jun 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.cs.georgetown.edu/matsuo/publication/rfidsec2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Solving a 676-Bit Discrete Logarithm Problem in GF(3^{6n})rototyping Platform for Performance Evaluation of SHA-3 Candidates</title>
+      <link>https://people.cs.georgetown.edu/matsuo/publication/pkc2010/</link>
+      <pubDate>Wed, 26 May 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.cs.georgetown.edu/matsuo/publication/pkc2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to Evaluate the Security of Real-Life Cryptographic Protocols? - The Cases of ISO/IEC 29128 and CRYPTREC</title>
+      <link>https://people.cs.georgetown.edu/matsuo/publication/rlcps2010/</link>
+      <pubDate>Thu, 28 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.cs.georgetown.edu/matsuo/publication/rlcps2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Classification of Hash Functions Suitable for Real-life Systems</title>
+      <link>https://people.cs.georgetown.edu/matsuo/publication/ieice_hkmty08/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.cs.georgetown.edu/matsuo/publication/ieice_hkmty08/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Classification of Hash Functions Suitable for Real-life Systems</title>
+      <link>https://people.cs.georgetown.edu/matsuo/publication/nisthashws2006/</link>
+      <pubDate>Thu, 24 Aug 2006 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.cs.georgetown.edu/matsuo/publication/nisthashws2006/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Universal Composable Security of Time-stamping Protocol</title>
+      <link>https://people.cs.georgetown.edu/matsuo/publication/iwap2005/</link>
+      <pubDate>Wed, 21 Sep 2005 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.cs.georgetown.edu/matsuo/publication/iwap2005/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Divisible Voting Scheme</title>
+      <link>https://people.cs.georgetown.edu/matsuo/publication/ieice_mo05/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.cs.georgetown.edu/matsuo/publication/ieice_mo05/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>User-side Forward-dating Attack on Time-stamping Protocols</title>
+      <link>https://people.cs.georgetown.edu/matsuo/publication/iwap2004/</link>
+      <pubDate>Sun, 03 Oct 2004 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.cs.georgetown.edu/matsuo/publication/iwap2004/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Divisible Voting Scheme</title>
+      <link>https://people.cs.georgetown.edu/matsuo/publication/isc2003/</link>
+      <pubDate>Wed, 01 Oct 2003 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.cs.georgetown.edu/matsuo/publication/isc2003/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Method for Exchanging Valuable Data: How to Realize Matching Oblivious Transfer.</title>
+      <link>https://people.cs.georgetown.edu/matsuo/publication/podc2003/</link>
+      <pubDate>Sun, 13 Jul 2003 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.cs.georgetown.edu/matsuo/publication/podc2003/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Electronic Ticket Scheme For ITS</title>
+      <link>https://people.cs.georgetown.edu/matsuo/publication/ieice_mo03_2/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.cs.georgetown.edu/matsuo/publication/ieice_mo03_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Matching Oblivious Transfer: How to Exchange Valuable Data</title>
+      <link>https://people.cs.georgetown.edu/matsuo/publication/ieice_mo03_1/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.cs.georgetown.edu/matsuo/publication/ieice_mo03_1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Electronic Ticket for ITS</title>
+      <link>https://people.cs.georgetown.edu/matsuo/publication/itswc2001/</link>
+      <pubDate>Mon, 01 Oct 2001 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.cs.georgetown.edu/matsuo/publication/itswc2001/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Invited Paper: Electronic Ticket for ITS</title>
+      <link>https://people.cs.georgetown.edu/matsuo/publication/wpmc2001/</link>
+      <pubDate>Tue, 11 Sep 2001 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.cs.georgetown.edu/matsuo/publication/wpmc2001/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Secure Protocol to Construct Electronic Trading</title>
+      <link>https://people.cs.georgetown.edu/matsuo/publication/ieice_mm01/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.cs.georgetown.edu/matsuo/publication/ieice_mm01/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

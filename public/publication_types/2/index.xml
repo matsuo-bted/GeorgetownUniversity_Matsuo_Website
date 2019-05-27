@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 on Shin&#39;ichiro Matsuo@Georgetown</title>
+    <link>https://people.cs.georgetown.edu/matsuo/publication_types/2/</link>
+    <description>Recent content in 2 on Shin&#39;ichiro Matsuo@Georgetown</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Shin&#39;ichiro Matsuo</copyright>
+    <lastBuildDate>Sun, 05 Oct 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://people.cs.georgetown.edu/matsuo/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A Non-repudiable Negotiation Protocol for Security Service Level Agreements.</title>
+      <link>https://people.cs.georgetown.edu/matsuo/publication/ijcs2015/</link>
+      <pubDate>Sun, 05 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.cs.georgetown.edu/matsuo/publication/ijcs2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Relations among Notions of Privacy for RFID Authentication Protocols</title>
+      <link>https://people.cs.georgetown.edu/matsuo/publication/ieice_mmo14/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.cs.georgetown.edu/matsuo/publication/ieice_mmo14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tailored Security: Building Nonrepudiable Security Service-Level Agreements</title>
+      <link>https://people.cs.georgetown.edu/matsuo/publication/ieeevt2013/</link>
+      <pubDate>Sun, 01 Sep 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.cs.georgetown.edu/matsuo/publication/ieeevt2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Accountable Security Mechanism based on Security Service Level Agreement</title>
+      <link>https://people.cs.georgetown.edu/matsuo/publication/ieeescc2013/</link>
+      <pubDate>Mon, 07 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.cs.georgetown.edu/matsuo/publication/ieeescc2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fair and Consistent Hardware Evaluation of Fourteen Round Two SHA-3 Candidates</title>
+      <link>https://people.cs.georgetown.edu/matsuo/publication/ieeevlsi_2012/</link>
+      <pubDate>Tue, 01 May 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.cs.georgetown.edu/matsuo/publication/ieeevlsi_2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Solving a 676-Bit Discrete Logarithm Problem in $GF(3^{6n})$</title>
+      <link>https://people.cs.georgetown.edu/matsuo/publication/ieice_hswmst12/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.cs.georgetown.edu/matsuo/publication/ieice_hswmst12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Classification of Hash Functions Suitable for Real-life Systems</title>
+      <link>https://people.cs.georgetown.edu/matsuo/publication/ieice_hkmty08/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.cs.georgetown.edu/matsuo/publication/ieice_hkmty08/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Divisible Voting Scheme</title>
+      <link>https://people.cs.georgetown.edu/matsuo/publication/ieice_mo05/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.cs.georgetown.edu/matsuo/publication/ieice_mo05/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Electronic Ticket Scheme For ITS</title>
+      <link>https://people.cs.georgetown.edu/matsuo/publication/ieice_mo03_2/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.cs.georgetown.edu/matsuo/publication/ieice_mo03_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Matching Oblivious Transfer: How to Exchange Valuable Data</title>
+      <link>https://people.cs.georgetown.edu/matsuo/publication/ieice_mo03_1/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.cs.georgetown.edu/matsuo/publication/ieice_mo03_1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Secure Protocol to Construct Electronic Trading</title>
+      <link>https://people.cs.georgetown.edu/matsuo/publication/ieice_mm01/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.cs.georgetown.edu/matsuo/publication/ieice_mm01/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
